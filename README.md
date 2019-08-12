@@ -40,6 +40,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 下面是效果图
 
 ![1565618566570](https://github.com/mokice/vue-demo/blob/master/1565618566570.png)
+![1565618581625](https://github.com/mokice/vue-demo/blob/master/1565618581625.png)
+![1565618597696](https://github.com/mokice/vue-demo/blob/master/1565618597696.png)
+![1565618617644](https://github.com/mokice/vue-demo/blob/master/1565618617644.png)
+![1565618672324](https://github.com/mokice/vue-demo/blob/master/1565618672324.png)
+![1565618683647](https://github.com/mokice/vue-demo/blob/master/1565618683647.png
+![1565618697953](https://github.com/mokice/vue-demo/blob/master/1565618697953.png)
 
 
 
