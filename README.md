@@ -39,7 +39,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 下面是效果图
 
-
+https://github.com/mokice/vue-demo/blob/master/1565618566570.png
 
 
 
